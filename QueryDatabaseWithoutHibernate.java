@@ -1,4 +1,4 @@
-package com.kobie.qaautomation.util;
+package 
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

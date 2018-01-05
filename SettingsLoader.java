@@ -1,4 +1,4 @@
-package com.kobie.qaautomation.util;
+package 
 
 import java.io.FileOutputStream;
 import java.io.IOException;
